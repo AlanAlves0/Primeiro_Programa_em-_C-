@@ -73,7 +73,7 @@
             Controls.Add(txtNome);
             Controls.Add(lblNome);
             Name = "form1";
-            Text = "Formulário";
+            Text = "Boas Vindas";
             ResumeLayout(false);
             PerformLayout();
         }
